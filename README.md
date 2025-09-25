@@ -1,4 +1,4 @@
-🛒 Olist SQL Case Study Project
+# 🛒 Olist SQL Case Study Project
 📌 Project Overview
 
 This project uses the Olist Brazilian E-Commerce Dataset to practice and showcase advanced SQL problem-solving skills.
@@ -39,13 +39,13 @@ reviews → customer reviews and ratings
 
 This project focuses on intermediate-to-advanced SQL concepts:
 
-✔️ Joins – combining data across multiple tables
-✔️ Aggregations – SUM, COUNT, AVG, HAVING
-✔️ CTEs – simplifying queries and building step-by-step logic
-✔️ Recursive CTEs – creating a dynamic date calendar
-✔️ Window Functions – RANK, ROW_NUMBER, LAG, LEAD, moving averages
-✔️ Subqueries – filtering and comparison against aggregates
-✔️ Case Studies – solving realistic business problems
+# ✔️ Joins – combining data across multiple tables
+# ✔️ Aggregations – SUM, COUNT, AVG, HAVING
+# ✔️ CTEs – simplifying queries and building step-by-step logic
+# ✔️ Recursive CTEs – creating a dynamic date calendar
+# ✔️ Window Functions – RANK, ROW_NUMBER, LAG, LEAD, moving averages
+# ✔️ Subqueries – filtering and comparison against aggregates
+# ✔️ Case Studies – solving realistic business problems
 
 📊 Example Business Questions Solved
 
